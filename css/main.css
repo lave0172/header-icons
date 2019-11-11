@@ -25,15 +25,15 @@ section {
   background-color: #d05c2e;
 }
 
-.header h2 {
+.header h1 {
   font-size: 2rem;
   color: #fff;
-  font-family: "Merriweather";
+  font-family: Merriweather;
 }
 
 .header ul {
   list-style-type: none;
-  font-family: "Merriweather";
+  font-family: Merriweather;
   font-size: 1.125em;
   display: flex;
   justify-content: space-between;
@@ -44,6 +44,7 @@ section {
   text-decoration: none;
   padding: 0 .5em;
 }
+
 nav a {
   display: block;
 }
